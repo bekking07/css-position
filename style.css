@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+
+.block{
+    width: 500px;
+    height: 500px;
+    background-color: lemonchiffon;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+  
+/* Внешний отступ */
+/* margin: 50px; */
+/* margin: 25px 15px; */
+/* margin: 50px 40px 30px 20px; */
+margin: 50px auto;
+
+
+/* Внутренний отступ */
+/* padding: 20px; */
+/* padding: 20px 10px; */
+/* padding: 20px 15px 10px 5px; */
+
+}
